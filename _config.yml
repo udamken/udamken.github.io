@@ -1,0 +1,17 @@
+# Site settings
+title: dknapps.de - Home of apps by dknapps.de
+description: > # this means to ignore newlines until "baseurl:"
+  dknapps.de - Home of apps by dknapps.de
+baseurl: "" # the subpath of your site, e.g. /blog/
+logourl: "/images/dknapps.de.png" # the subpath to the logo
+url: "http://dknapps.de" # the base hostname & protocol for your site
+github_username:  udamken
+
+# Build settings
+markdown: kramdown
+
+# File and Directory settings
+exclude: [
+  .project
+  resources/
+]
