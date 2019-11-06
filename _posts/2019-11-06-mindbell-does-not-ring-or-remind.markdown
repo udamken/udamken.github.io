@@ -57,20 +57,14 @@ Here is a checklist that I hope might help to get it going:
 
 * Are you using any sort of power saver app or power saver mechanism?
 
-  Please exclude MindBell from any power saver app or power saver mechanism. This might be specific to your version, model and vendor of your phone or you might have installed some specials apps for this. E.g. on **Honor**, **Huawei** and **Xiaomi** phones reminder won't work without this.
+  Please exclude MindBell from standard battery optimization following this [description](/mindbell-battery).
+  The 'Battery settings' option under 'Problem solving' in MindBell's settings should take you there.
+
+  Please exclude MindBell from any power saver app or power saver mechanism. This might be specific to your version, model and vendor of your phone or you might have installed some specials apps for this. E.g. on **Honor**, **Huawei** and **Xiaomi** phones reminder won't work without this. Please take a look at <a href="https://dontkillmyapp.com/?app=MindBell&3" target="_blank">Don't kill my app!</a>
 
   Please deactivate and activate reminders by the switch to test these settings after changing them.
 
-  Please exclude MindBell from optimizing battery use following this [description](/mindbell-battery).
-  The 'Battery settings' option under 'Problem solving' in MindBell's settings should take you there.
-
-  Please check these faq of two other apps - completely independent of MindBell but root cause for the mentioned problems is the same as for missing reminders in MindBell. Be aware they have nothing at all to do with MindBell or dknapps.de neither am I responsible for the content - the links are added for your convenience only:
-  
-  * <a href="http://nine-faq.9folders.com/categories/2758-troubleshooting" target="_blank">foreign troubleshooting tips for an app called "Nine"</a>
-  * <a href="https://threema.ch/en/faq/push_andr" target="_blank">foreign troubleshooting tips for an app called "Threema"</a>
-  * <a href="https://threema.ch/de/faq/push_andr" target="_blank">fremde Hilfestellung für ein App namens "Threema" (deutsch/german)</a>
-  
-  <br/>You think MindBell should solve this for you? Sorry, it can't.
+  You think MindBell should solve this for you? Sorry, it can't.
   
   Before <span style="color:red">**complaining or down-ranking**</span> please watch this <a href="https://youtu.be/nlmS8_Gz5QA" target="_blank">video</a> and read this <a href="https://www.reddit.com/r/Android/comments/8qjhx7/huawei_oneplus_and_xiaomis_overlyaggressive/" target="_blank">text</a>.
 
