@@ -5,7 +5,13 @@ category:  mindbell
 permalink: mindbell-changelog
 ---
 
-### 3.5.0 (upcoming)
+### 3.6.0
+
+* SDK target level increased to 26
+* Status notification removed
+* Notification bound to a foreground service is now shown when MindBell is active or meditation is ongoing (this hopefully keeps MindBell alive and overcomes battery optimization issues)
+
+### 3.5.0
 
 * Minimum SDK level increased to 21 ... due to missing system sounds in emulator with lower levels and a bug in preferences handling in level 16
 * Quick settings tile added for quick mute/unmute and to replace status notification as of Android Oreo ([issue #50](https://github.com/udamken/mindbell/issues/50))
@@ -19,7 +25,7 @@ permalink: mindbell-changelog
 * Reliably support sounds longer than 10s
 * Code refactoring for better separation of concerns
 * Moved from Java to Kotlin
-* SDK target level increased 26 because of [Google Play](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html?m=1) ([issue #66](https://github.com/udamken/mindbell/issues/66))
+* SDK target level increased to 26 because of [Google Play](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html?m=1) ([issue #66](https://github.com/udamken/mindbell/issues/66))
 
 ### 3.2.6
 
