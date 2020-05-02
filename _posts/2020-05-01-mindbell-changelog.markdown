@@ -7,7 +7,7 @@ permalink: mindbell-changelog
 
 ### 3.6.0
 
-* SDK target level increased to 26
+* SDK target level increased to 29
 * Status notification removed
 * Notification bound to a foreground service is now shown when MindBell is active or meditation is ongoing (this hopefully keeps MindBell alive and overcomes battery optimization issues)
 
