@@ -12,7 +12,7 @@ Download mail2me from [product subdirectory of mail2me in the code repository](h
 
 mail2me has been published under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-If you have questions or problems please check the following list of **frequently asked questions**. If that does not answer your question plesase send an e-mail to **maill2me [at] dknapps.de** (please replace [at] accordingly).
+If you have questions or problems please check the following list of **frequently asked questions**. If that does not answer your question plesase send an e-mail to **mail2me [at] dknapps.de** (please replace [at] accordingly).
 
   <ul class="post-list">
     {% assign sorted_posts = site.posts | sort: 'title' %}

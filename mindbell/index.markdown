@@ -6,6 +6,8 @@ summary:  Aims to give you a support for staying mindful in a busy life - for re
 category: app
 order:    1
 ---
+> **_WANTED_** [New maintainer wanted!](/mindbell-maintainer)
+
 **MindBell** rings periodically as a mindfulness bell during the day, to give you the opportunity to hold on for a moment and consider what you are currently doing, and in what state of mind you are while you are doing it. According to the Zen Buddhist teacher Thich Nhat Hanh, this is an effective means of developing mindfulness.
 
 > **_HINWEIS:_** Nein, diese Seite gibt es nicht auf Deutsch - wie sie sich übersetzen lässt steht [hier](/translate-website).
@@ -19,20 +21,6 @@ MindBell has been published under [Apache License, Version 2.0](https://www.apac
 **Please be aware that I'm developing and supporting MindBell in my spare time.** So I'd like to save the time to answer questions repeatedly but to use the time for adding new features. Therefore I'd kindly ask you to check the following list of **frequently asked questions** for an answer first if you have questions or problems.
 
 > **_HINT:_** If you miss reminders or meditation ending bells please check [power saving](/mindbell-notringing#power-saver).
-
-For all other questions not answered here please send an e-mail via _Send e-mail with log_ from section _Problem solving_ in MindBell's [settings](/mindbell-intro#settings).
-
-  * **Please** describe your question or problem.
-
-  * **Please** describe what you did, what you expected, what happened instead.
-
-  * **Please** mention whether it's about reminders or meditation.
-
-  * **Please** add what you've already tried to solve the issue.
-
-  * **Please** describe the scenario you need support for when requesting a new feature.
-
-  * **E-mails without any description will be ignored.**
 
 ---
 <br/>

@@ -5,6 +5,11 @@ category:  mindbell
 permalink: mindbell-changelog
 ---
 
+### 3.6.1
+
+* Menu entry to send an e-mail with log disabled
+* New maintainer wanted ... added to popup dialog
+
 ### 3.6.0
 
 * SDK target level increased to 29
