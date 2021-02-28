@@ -16,4 +16,4 @@ Too make a long story short, I'm no longer willing to spend my spare time on the
 
 However, I still like the idea of providing a mindfulness app without ads, internet connection and statistics - just a simple meditation timer (with large digits to be readable without glasses if you are guiding a meditation) plus a mindfulness bell.
 
-So, if you are willing to become a maintainer of MindBell (despite the "risks" mentioned above), please don't hesitate to [contact me](https://dknapps.de/impressum/).
+So, if you are willing to become a maintainer of MindBell (despite the "risks" mentioned above), please contact my by raising an issue in [MindBell's GitHub repository](https://github.com/udamken/mindbell/issues).
